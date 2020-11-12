@@ -1,1 +1,7 @@
-{"patch version":"1"}
+{
+	"success":"1",
+  "version":"1",
+	"title":"New behaviors",
+	"description":
+  	"We have added a bunch of new behaviors, please check them out!"
+}
