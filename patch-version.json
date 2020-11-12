@@ -1,7 +1,10 @@
 {
 	"success":"1",
-  "version":"1",
-	"title":"New behaviors",
+  "version":"1.0.0",
+	"title":"New Patches",
 	"description":
-  	"We have added a bunch of new behaviors, please check them out!"
+  	"There will be new patches every now and then that will update content in CSocket. This can include:
+	- New behaviors and behavior data
+	- Changes and optimizations in compiling functionality
+	- Alerts for new project updates"
 }
