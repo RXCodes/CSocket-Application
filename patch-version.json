@@ -3,12 +3,5 @@
   "version":"0.1",
 	"title":"Patches!",
 	"description":
-  	"There will be new patches every now and then that will update content in CSocket. This can include:
-	- New behaviors and behavior data
-	- Changes and optimizations in compiling functionality
-	- Alerts for new project updates
-	
-	This patch includes:
-	- New supported behaviors, indicated with green circles
-	- New custom behaviors that may come from a pack"
+  	"There will be new patches every now and then that will update content in CSocket. This can include: \n New behaviors and behavior data, changes and optimizations in compiling functionality and alerts for new project updates."
 }
