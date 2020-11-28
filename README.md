@@ -11,3 +11,5 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 
 :warning: | Putting an invalid URL will cause your deployment to fail or not function as intended.
 :---: | :---
+
+## Signup for Heroku if you haven't already.
