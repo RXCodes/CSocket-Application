@@ -17,6 +17,6 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 ## Signup for Heroku if you haven't already.
 > ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/46E966BF-8895-4AE5-97B2-8A104D6D56D7.png)
 
-**3.** This login / sign-in page will be prompted if you are not logged into Heroku or you don't have an account. Please log in or sign in to continue.
+**3.** This login / sign-in page will be prompted if you are not logged into Heroku or you don't have an account. Please log in or sign in to continue. You probably only need to do this once in a lifetime.
 
 ## Officially deploy your socket.io server.
