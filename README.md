@@ -29,4 +29,8 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 # How to use
 > ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/4F4AE9D0-60FD-46FC-98B7-0EBCF6EB20A8.png)
 
-Once your socket.io server has been compiled, you can press **Manage App** if the View App button doesn't work.
+Once your socket.io server has been compiled, you can press **Manage App** if the View button doesn't work.
+
+> ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/6591CD00-6E85-4A44-94F4-A8224FF17BE8.png)
+
+When inside the app, press **Open App**.
