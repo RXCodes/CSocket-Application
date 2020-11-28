@@ -8,4 +8,5 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 > ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/72ABDFFA-7BBB-439F-BAD4-C939436709E5.png)
 1. Copy the URL of this page. (No files should be opened.) Press the purple button above to access the webpage to start deploying.
 2. Paste the URL in the input field. Press "deploy" when done.
-> Putting an invalid URL will cause your deployment to fail or to not function as intended.
+:⚠: | Putting an invalid URL will cause your deployment to fail or to not function as intended.
+:---: | :---
