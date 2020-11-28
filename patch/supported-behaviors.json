@@ -43,7 +43,7 @@
    "Return":"1",
    "On Start":"1",
    "Newline":"1",
-   "Global Variable":"0",
+   "Global Variable":"1",
    "Get Memory Usage":"0",
    "Modulus":"0",
    "Test for Variable":"0",
