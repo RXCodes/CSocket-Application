@@ -10,3 +10,7 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 2. Paste the URL in the input field. Press "deploy" when done.
 :⚠: | Putting an invalid URL will cause your deployment to fail or to not function as intended.
 :---: | :---
+
+
+:bangbang: | This is important
+:---: | :---
