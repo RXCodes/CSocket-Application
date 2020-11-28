@@ -9,5 +9,5 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 1. Copy the URL of this page. (No files should be opened.) Press the purple button above to access the webpage to start deploying.
 2. Paste the URL in the input field. Press "deploy" when done.
 
-:warning: | Putting an invalid URL will cause your deployment to fail or to not function as intended.
+:warning: | Putting an invalid URL will cause your deployment to fail or not function as intended.
 :---: | :---
