@@ -27,3 +27,6 @@ Copy the URL of this page to use in deploying your socket.io server and click th
 **5.** Press the purple *Deploy* button to officially deploy your socket.io server! It may take some time for your server to be compiled. So please wait patiently!
 
 # How to use
+> ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/4F4AE9D0-60FD-46FC-98B7-0EBCF6EB20A8.png)
+
+Once your socket.io server has been compiled, you can press **Manage App** if the View App button doesn't work.
