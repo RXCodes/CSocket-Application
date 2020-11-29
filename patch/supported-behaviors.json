@@ -69,7 +69,7 @@
    "Break":"1",
    "Is Boolean":"0",
    "Get Port":"0",
-   "On Console Input":"0",
+   "On Console Input":"1",
    "Round Number":"0",
    "Math Function":"0",
    "On Connection":"1",
@@ -93,7 +93,7 @@
    "Get Dictionary Keys":"0",
    "Get Sockets by Tag":"0",
    "Catch Error":"1",
-   "Emit Event in Room":"0",
+   "Emit Event in Room":"1",
    "Get Protocol":"0",
    "Get Array Value":"0",
    "Get Dictionary Value":"0",
@@ -103,7 +103,7 @@
    "To String":"0",
    "Callback":"1",
    "Clear JSON":"0",
-   "Emit Event":"0",
+   "Emit Event":"1",
    "To Array":"0",
    "Replace":"0"
 }
