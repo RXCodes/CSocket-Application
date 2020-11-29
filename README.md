@@ -39,4 +39,4 @@ When inside the app, press **Open App**.
 
 After pressing "Open app", you will be taken to the console of the server. This is where you can see all logs via the *Console Log* behavior in your project which can be provide useful information, and you can send messages from the console to make your server do specific tasks that you've programmed. The console works for **all devices**, even on mobile.
 
-The URL of your socket.io server will be displayed in the console log and it will also be the URL of the console. You can copy the URL to use in your programs in hyperPad, or anything really.
+The URL of your socket.io server will be displayed in the console log and it will also be the URL of the console. You can copy the URL to use in your projects in hyperPad, or anything really.
