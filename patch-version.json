@@ -1,7 +1,7 @@
 {
 	"success":"1",
   "version":"0.1",
-	"title":"Basic Variable Use",
+	"title":"Supported Variable Behaviors",
 	"description":
-  	"Added support for get variable value, set variable and global variable behaviors."
+  	"Added support for all variable behaviors such as get variable value, set variable, etc."
 }
