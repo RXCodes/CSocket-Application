@@ -34,3 +34,9 @@ Once your socket.io server has been compiled, you can press **Manage App** if th
 > ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/6591CD00-6E85-4A44-94F4-A8224FF17BE8.png)
 
 When inside the app, press **Open App**.
+
+> ![image](https://raw.githubusercontent.com/RXCodes/CSocket-Application/main/content/17DACD68-0109-47AC-BB1C-3ADDD0AEC22F.png)
+
+After pressing "Open app", you will be taken to the console of the server. This is where you can see all logs via the *Console Log* behavior in your project which can be provide useful information, and you can send messages from the console to make your server do specific tasks that you've programmed. The console works for **all devices**, even on mobile.
+
+The URL of your socket.io server will be displayed in the console log and it will also be the URL of the console. You can copy the URL to use in your programs in hyperPad, or anything really.
