@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.1",
-	"title":"Supported Variable Behaviors",
+  "version":"0.2",
+	"title":"Supported All Math Behaviors",
 	"description":
-  	"Added support for all variable behaviors such as get variable value, set variable, etc."
+  	"Added support for ALL behaviors in the math category such as add, subtract, math function and more!"
 }
