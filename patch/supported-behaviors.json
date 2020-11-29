@@ -76,7 +76,7 @@
    "Get Type":"0",
    "Comment":"1",
    "Stop Timer":"0",
-   "Minimum":"1",
+   "Minimum":"0",
    "Start Timer":"0",
    "On Event":"1",
    "Check for Tag":"0",
