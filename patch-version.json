@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.3",
-	"title":"Supported All Storage Behaviors",
+  "version":"0.4",
+	"title":"Supported All JSON Behaviors",
 	"description":
-  	"Added support for ALL behaviors in the storage category such as add, subtract, math function and more! CSocket has also been updated in the hub, so please update it to see many new features and improvements to come!"
+  	"Added support for ALL behaviors in the JSON category! You can now manipulate arrays and dictionaries! CSocket has also been updated in the hub, so please update it to see many new features and improvements to come!"
 }
