@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.4",
-	"title":"Supported All JSON Behaviors",
+  "version":"0.5",
+	"title":"Server Supports",
 	"description":
-  	"Added support for ALL behaviors in the JSON category! You can now manipulate arrays and dictionaries! CSocket has also been updated in the hub, so please update it to see many new features and improvements to come!"
+  	"Added support for 6 behaviors in the Server category! (Get Time, Port, URL, Host Name, Path Name & Protocol)
 }
