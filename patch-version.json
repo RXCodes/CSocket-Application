@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.5",
+  "version":"0.6",
 	"title":"Server Supports",
 	"description":
-  	"Added support for 6 behaviors in the Server category! (Get Time, Port, URL, Host Name, Path Name & Protocol.)"
+  	"Added support for new behaviors in the Server category! Moved the Total Socket Count behavior into the Socket category."
 }
