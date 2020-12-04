@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.6",
-	"title":"Server Supports",
+  "version":"0.7",
+	"title":"Updated HTTP Request",
 	"description":
-  	"Added support for new behaviors in the Server category! Moved the Total Socket Count behavior into the Socket category."
+  	"Adjusted the HTTP Request behavior and moved it to the Custom category. All server behaviors are now supported."
 }
