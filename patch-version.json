@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.8",
-	"title":"Supporred HTTP Request",
+  "version":"0.9",
+	"title":"Support for all socket behaviors",
 	"description":
-  	"Adjusted and supported the HTTP Request behavior and moved it to the Custom category."
+  	"Adjusted and supported all socket behaviors. However, socket behaviors are still being tested -- please report crashes with these behaviors!"
 }
