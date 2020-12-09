@@ -79,7 +79,7 @@
    "Minimum":"1",
    "Start Timer":"0",
    "On Event":"1",
-   "Check for Tag":"0",
+   "Check for Tag":"1",
    "While":"1",
    "Disconnect Socket":"1",
    "Trim":"1",
@@ -97,7 +97,7 @@
    "Get Protocol":"1",
    "Get Array Value":"1",
    "Get Dictionary Value":"1",
-   "Is Connected":"0",
+   "Is Connected":"1",
    "If":"1",
    "Resistor Overflow":"0",
    "To String":"1",
@@ -105,5 +105,6 @@
    "Clear JSON":"1",
    "Emit Event":"1",
    "To Array":"1",
-   "Replace":"1"
+   "Replace":"1",
+   "Get Tags":"1"
 }
