@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"0.9",
-	"title":"Support for all socket behaviors",
+  "version":"1.0",
+	"title":"Support for functions",
 	"description":
-  	"Adjusted and supported all socket behaviors. However, socket behaviors are still being tested -- please report crashes with these behaviors!"
+  	"Functions along with timed events should now work!"
 }
