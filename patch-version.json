@@ -1,7 +1,7 @@
 {
 	"success":"1",
-  "version":"1.0",
-	"title":"Support for functions",
+  "version":"1.1",
+	"title":"Support for functions and resistors",
 	"description":
-  	"Functions along with timed events should now work!"
+  	"Resistors and functions along with timed events should now work!"
 }
